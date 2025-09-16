@@ -11,7 +11,7 @@
 - Diving deeper into full-stack web and mobile application development.
 - Computer graphics and game programming.
 - Creating stylish 3D websites.
-- XR application and game development.
+- XR development.
 
 <!--
 **tu2463/tu2463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
