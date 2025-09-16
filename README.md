@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHub.
+
+### 🔭 I’m currently working on ...
+- _Pittsburgh Sunset_, an XR zombie game based on the frisbee golf picnic game, developed in Unity.
+- A series of mini-games, each focused on specific components of game development, such as 3D mesh, sound design, multiplayer, etc. Built with C++ and Python.
+- _CMU Maps_ at ScottyLab, a map app that helps students navigate in the CMU campus, both indoors and outdoors. Used Python for data scraping and cleaning.
+- _SeeingJS_, a JavaScript event loop visualizer built with React and Next.js, aimed at helping developers understand asynchronous operations in JavaScript.
+- _Blender_, An open-source, widely-used 3D software where I am contributing to debugging various features.
+  
+### 🌱 I’m currently learning ...
+- Diving deeper into full-stack web and mobile application development.
+- Computer graphics and game programming.
+- Creating stylish 3D websites.
+- XR application and game development.
 
 <!--
 **tu2463/tu2463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
