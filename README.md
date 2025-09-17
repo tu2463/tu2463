@@ -3,9 +3,9 @@
 ### 🔭 I’m currently working on ...
 - _**CMU Maps**_ at ScottyLab, a map app that helps students navigate in the CMU campus, both indoors and outdoors. Used Python for data scraping and cleaning.
 - _**Pittsburgh Sunset**_, an VR zombie game based on the frisbee golf picnic game, developed in Unity.
-- A series of mini-games, each focused on specific components of game development, such as 3D mesh, sound design, multiplayer, etc. Built with C++ and Python.
+- A series of mini-games, each focused on a specific component of game development, such as 3D mesh, sound, multiplayer, font rendering, etc. Built with C++ and Python.
 - _**SeeingJS**_, a JavaScript event loop visualizer built with React and Next.js, aimed at helping developers understand asynchronous operations in JavaScript.
-- _**Blender**_, An open-source, widely-used 3D software where I am contributing to debugging various features.
+- _**Blender**_, an open-source, widely-used 3D software where I am contributing to debugging various features.
   
 ### 🌱 I’m currently learning ...
 - Diving deeper into full-stack web and mobile application development.
