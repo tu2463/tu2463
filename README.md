@@ -2,16 +2,16 @@
 
 ### 🔭 I’m currently working on ...
 - _**CMU Maps**_ at ScottyLab, a map app that helps students navigate in the CMU campus, both indoors and outdoors. Used Python for data scraping and cleaning.
-- _**Pittsburgh Sunset**_, an VR zombie game based on the frisbee golf picnic game, developed in Unity.
-- A series of mini-games, each focused on a specific component of game development, such as 3D mesh, sound, multiplayer, font rendering, etc. Built with C++ and Python using OpenGL.
+- _**Pittsburgh Sunset**_, an VR game that is like combination of zombie game and frisbee golf, developed in Unity.
+- A series of mini-games featuring very diverse styles, such as pixel games, 3D games, sound-focused games, text-based games, and multiplayers. These are built using C++, Python, and OpenGL.
 - _**SeeingJS**_, a JavaScript event loop visualizer built with React and Next.js, aimed at helping developers understand asynchronous operations in JavaScript.
 - _**Blender**_, an open-source, widely-used 3D software where I am contributing to debugging various features.
   
 ### 🌱 I’m currently learning ...
-- Diving deeper into full-stack web and mobile application development.
+- Development of web and mobile applications in large scale and big impact.
 - Computer graphics and game programming.
 - Creating stylish 3D websites.
-- XR development.
+- VR/AR development.
 
 <!--
 **tu2463/tu2463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
