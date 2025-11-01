@@ -1,10 +1,10 @@
 ## Hi there 👋 Welcome to my GitHub.
 
 ### 🔭 I’m currently working on ...
-- _**CMU Maps**_ at ScottyLab, a map app that helps students navigate in the CMU campus, both indoors and outdoors. Used Python for data scraping and cleaning.
 - _**Pittsburgh Sunset**_, an VR game that is like combination of zombie game and frisbee golf, developed in Unity.
 - A series of mini-games featuring very diverse styles, such as pixel games, 3D games, sound-focused games, text-based games, and multiplayers. These are built using C++, Python, and OpenGL.
 - _**SeeingJS**_, a JavaScript event loop visualizer built with React and Next.js, aimed at helping developers understand asynchronous operations in JavaScript.
+- _**CMU Maps**_ at ScottyLab, a map app that helps students navigate in the CMU campus, both indoors and outdoors. Used Python for data scraping and cleaning.
 - _**Blender**_, an open-source, widely-used 3D software where I am contributing to debugging various features.
   
 ### 🌱 I’m currently learning ...
