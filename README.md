@@ -1,17 +1,15 @@
-## Hi there 👋 Welcome to my GitHub.
+## Hi! 🥳 Welcome to my GitHub.
 
 ### 🔭 I’m currently working on ...
-- _**Pittsburgh Sunset**_, an VR game that is like combination of zombie game and frisbee golf, developed in Unity.
-- A series of mini-games featuring very diverse styles, such as pixel games, 3D games, sound-focused games, text-based games, and multiplayers. These are built using C++, Python, and OpenGL.
+- **Zoo Escape**, A 3D horror game where a deer attack human visitors to steal their body parts, gradually transforming into human form to escape the zoo... Built with C++, OpenGL, Python.
+- _**Pittsburgh Sunset**_, A VR shooter built in Unity for Meta Quest 3S, where players defend themselves from an alien invasion using electric frisbees.
 - _**SeeingJS**_, a JavaScript event loop visualizer built with React and Next.js, aimed at helping developers understand asynchronous operations in JavaScript.
 - _**CMU Maps**_ at ScottyLab, a map app that helps students navigate in the CMU campus, both indoors and outdoors. Used Python for data scraping and cleaning.
-- _**Blender**_, an open-source, widely-used 3D software where I am contributing to debugging various features.
   
 ### 🌱 I’m currently learning ...
-- Development of web and mobile applications in large scale and big impact.
-- Computer graphics and game programming.
-- Creating stylish 3D websites.
-- VR/AR development.
+- VR/AR development
+- Creating stylish web interactions with p5.js and WebGL
+- AI applications
 
 <!--
 **tu2463/tu2463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
