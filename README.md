@@ -1,10 +1,11 @@
 ## Hi! 🥳 Welcome to my GitHub.
 
 ### 🔭 I’m currently working on ...
+- _**Lunar Gala 2026 Website**_, built with React, TypeScript, Next.js, Lottie. A stylish, promotional website for one of the largest annual fashion show with 1000+ attendees each year.
 - _**CMU Maps**_ at ScottyLab, a map app that helps students navigate in the CMU campus, both indoors and outdoors. Used Python for data scraping and cleaning.
   
 ### 🌱 I’m currently exploring ...
-- Creating stylish 3D web pages with Three.js
+- Creating 3D web pages with Three.js
 - AR development with AI integration using Unity
 
 <!--
